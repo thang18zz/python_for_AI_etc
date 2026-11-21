@@ -1,0 +1,5 @@
+{
+  "model": "gpt-4o",
+  "prompt": "Xin chào Việt Nam",
+  "temperature": 0.7
+}
